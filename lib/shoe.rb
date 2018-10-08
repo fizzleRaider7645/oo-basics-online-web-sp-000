@@ -9,4 +9,6 @@ class Shoe
     @material
     @condition
   end
+  
+  def cobble
 end
