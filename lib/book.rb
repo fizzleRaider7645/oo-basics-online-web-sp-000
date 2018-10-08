@@ -4,5 +4,6 @@ class Book
   def initialize(title)
     @title = title
     @author
+    @page_count
   end
 end
