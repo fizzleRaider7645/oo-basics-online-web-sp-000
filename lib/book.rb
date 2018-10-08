@@ -5,5 +5,6 @@ class Book
     @title = title
     @author
     @page_count
+    @genre
   end
 end
