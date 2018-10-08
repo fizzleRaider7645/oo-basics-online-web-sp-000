@@ -3,5 +3,7 @@ class Shoe
     @brand = brand
     @color
     @size
+    @material
+    @condition
   end
 end
